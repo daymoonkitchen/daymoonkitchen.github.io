@@ -1,0 +1,45 @@
+nav {
+	background-color: green;
+}
+.navbar-brand.ela-title {
+	color: white;
+}
+.nav-item .nav-link.nav-menu-item {
+	color: white;
+}
+body {
+	background: url("../imgs/1820.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+title-text {
+	font-size:96px;
+	font-family: Futura;
+	color: white;
+	margin top:35vh;
+	padding-right:15vw;
+	padding-left: 15vw;
+}
+.food {
+	font-family: Futura;
+	color:white;
+	padding-bottom: 15vw;
+	font-size: 110px
+}
+.abou-btn {
+	display:block;
+	margin:0 auto;
+	margin-top:40px;
+}
+.about-btn a {
+	font-size:36px;
+	color: white;
+}
+.dog{
+	font-size: 20px;
+	color: white;
+	padding-right: 960px
+}
+.cat{
+	font-size: 20px;
+	color: white;
+}

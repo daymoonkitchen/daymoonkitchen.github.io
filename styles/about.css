@@ -1,0 +1,26 @@
+nav {
+	background-color: green;
+}
+.navbar-brand.ela-title {
+	color: white;
+}
+.nav-item .nav-link.nav-menu-item {
+	color: white;
+}
+title-text {
+	font-size:96px;
+	font-family: Futura;
+	color: white;
+	margin top:35vh;
+	padding-right:15vw;
+	padding-left: 15vw;
+	
+}
+.profile-pic {
+	max-width: 100%;
+	height: 250px;
+}
+.icon {
+	color: blue;
+	margin: 0 5px;
+}
