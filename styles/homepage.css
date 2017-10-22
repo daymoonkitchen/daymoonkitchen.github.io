@@ -43,3 +43,12 @@ title-text {
 	font-size: 20px;
 	color: white;
 }
+.title-text:hover {
+color: green;
+}
+.video {
+	display:block;
+	margin: 0 auto;
+	 
+
+}
